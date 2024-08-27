@@ -1,9 +1,8 @@
 {
   "name": "VIVALDI THEME",
-  // "$schema": "vscode://schemas/color-theme",
+  "publisher": "Harka Hang Limbu",
   "type": "dark",
   "colors": {
-    //base
     "focusBorder": "#3c3836",
     "foreground": "#ebdbb2",
     "widget.shadow": "#21202430",
